@@ -1,2 +1,3 @@
 测试新建文件的状态和已存在文件修改后的状态
 测试修改该文件后其状态如何
+当有两个文件，一个文件处于Working directory，另一个文件处于staging area时，git status显示内容
